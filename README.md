@@ -5,6 +5,8 @@ Solving all probem in Yandex coderun Backend
 ### TODO
 - [ ] 74
 - [ ] 155
+- [ ] 20
+- [ ] 2-10
 
 **Status:** <br>
 🟥 Not completed <br>
