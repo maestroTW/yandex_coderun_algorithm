@@ -1,6 +1,6 @@
 # Yandex Coderun 
 
-Solving all probem in Yandex coderun Backend
+Solving all Yandex Coderun problems
 
 ### TODO
 - [ ] 74
